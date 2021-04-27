@@ -86,7 +86,7 @@
 * CanvasJS Bar Chart should be able to link to the specific feed for which the data is being displayed if a user clicks
 * I'd like to add some form of user auth like JWTs or sessions
 * Using a React state management solution like Redux or Recoil would help modularize front-end code and improve performance
-* Furhter normalizing RSS feed data to accomodate feeds that include images and other data fields
+* Further normalizing RSS feed data to accomodate feeds that include images and other data fields
 * I'd like to include more front-end tests using React Testing Library
 * I plan to refactor the React code to utilize hooks with functional components, and lifecycle methods to avoid page refreshes
 
